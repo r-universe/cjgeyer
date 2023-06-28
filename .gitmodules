@@ -1,70 +1,43 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "aster"]
 	path = aster
 	url = https://github.com/cran/aster
-	shallow = true
-	registered = true
 [submodule "aster2"]
 	path = aster2
 	url = https://github.com/cran/aster2
-	shallow = true
-	registered = true
 [submodule "CatDataAnalysis"]
 	path = CatDataAnalysis
 	url = https://github.com/cran/CatDataAnalysis
-	shallow = true
-	registered = true
 [submodule "fuzzyRankTests"]
 	path = fuzzyRankTests
 	url = https://github.com/cran/fuzzyRankTests
-	shallow = true
-	registered = true
 [submodule "glmbb"]
 	path = glmbb
 	url = https://github.com/cran/glmbb
-	shallow = true
-	registered = true
 [submodule "mcmc"]
 	path = mcmc
 	url = https://github.com/cran/mcmc
-	shallow = true
-	registered = true
 [submodule "nice"]
 	path = nice
 	url = https://github.com/cran/nice
-	shallow = true
-	registered = true
 [submodule "pooh"]
 	path = pooh
 	url = https://github.com/cran/pooh
-	shallow = true
-	registered = true
 [submodule "potts"]
 	path = potts
 	url = https://github.com/cran/potts
-	shallow = true
-	registered = true
 [submodule "rcdd"]
 	path = rcdd
 	url = https://github.com/cran/rcdd
-	shallow = true
-	registered = true
 [submodule "trust"]
 	path = trust
 	url = https://github.com/cran/trust
-	shallow = true
-	registered = true
 [submodule "TSHRC"]
 	path = TSHRC
 	url = https://github.com/cran/TSHRC
-	shallow = true
-	registered = true
 [submodule "ump"]
 	path = ump
 	url = https://github.com/cran/ump
-	shallow = true
-	registered = true
