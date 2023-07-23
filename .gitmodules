@@ -32,6 +32,9 @@
 [submodule "rcdd"]
 	path = rcdd
 	url = https://github.com/cran/rcdd
+[submodule "sped"]
+	path = sped
+	url = https://github.com/cran/sped
 [submodule "trust"]
 	path = trust
 	url = https://github.com/cran/trust
