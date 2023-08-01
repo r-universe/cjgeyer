@@ -2,15 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CatDataAnalysis"]
+	path = CatDataAnalysis
+	url = https://github.com/cran/CatDataAnalysis
+[submodule "TSHRC"]
+	path = TSHRC
+	url = https://github.com/cran/TSHRC
 [submodule "aster"]
 	path = aster
 	url = https://github.com/cran/aster
 [submodule "aster2"]
 	path = aster2
 	url = https://github.com/cran/aster2
-[submodule "CatDataAnalysis"]
-	path = CatDataAnalysis
-	url = https://github.com/cran/CatDataAnalysis
 [submodule "fuzzyRankTests"]
 	path = fuzzyRankTests
 	url = https://github.com/cran/fuzzyRankTests
@@ -38,9 +41,6 @@
 [submodule "trust"]
 	path = trust
 	url = https://github.com/cran/trust
-[submodule "TSHRC"]
-	path = TSHRC
-	url = https://github.com/cran/TSHRC
 [submodule "ump"]
 	path = ump
 	url = https://github.com/cran/ump
