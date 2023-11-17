@@ -20,9 +20,6 @@
 [submodule "glmbb"]
 	path = glmbb
 	url = https://github.com/cran/glmbb
-[submodule "mcmc"]
-	path = mcmc
-	url = https://github.com/cran/mcmc
 [submodule "nice"]
 	path = nice
 	url = https://github.com/cran/nice
