@@ -8,9 +8,6 @@
 [submodule "TSHRC"]
 	path = TSHRC
 	url = https://github.com/cran/TSHRC
-[submodule "aster"]
-	path = aster
-	url = https://github.com/cran/aster
 [submodule "aster2"]
 	path = aster2
 	url = https://github.com/cran/aster2
@@ -20,9 +17,6 @@
 [submodule "glmbb"]
 	path = glmbb
 	url = https://github.com/cran/glmbb
-[submodule "nice"]
-	path = nice
-	url = https://github.com/cran/nice
 [submodule "pooh"]
 	path = pooh
 	url = https://github.com/cran/pooh
