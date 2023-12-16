@@ -23,9 +23,6 @@
 [submodule "potts"]
 	path = potts
 	url = https://github.com/cran/potts
-[submodule "rcdd"]
-	path = rcdd
-	url = https://github.com/cran/rcdd
 [submodule "sped"]
 	path = sped
 	url = https://github.com/cran/sped
