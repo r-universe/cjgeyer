@@ -8,9 +8,6 @@
 [submodule "TSHRC"]
 	path = TSHRC
 	url = https://github.com/cran/TSHRC
-[submodule "aster2"]
-	path = aster2
-	url = https://github.com/cran/aster2
 [submodule "fuzzyRankTests"]
 	path = fuzzyRankTests
 	url = https://github.com/cran/fuzzyRankTests
