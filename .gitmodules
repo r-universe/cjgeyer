@@ -20,9 +20,6 @@
 [submodule "sped"]
 	path = sped
 	url = https://github.com/cran/sped
-[submodule "trust"]
-	path = trust
-	url = https://github.com/cran/trust
 [submodule "ump"]
 	path = ump
 	url = https://github.com/cran/ump
